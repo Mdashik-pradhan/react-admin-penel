@@ -20,7 +20,7 @@ export default function Product() {
           <Chart
             data={productData}
             dataKey="Sales"
-            title="Sales Porformance"
+            title="Sales Performance"
             grid
           />
         </div>
